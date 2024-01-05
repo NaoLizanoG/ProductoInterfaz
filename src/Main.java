@@ -21,6 +21,7 @@ public class Main {
             public void imprimirProducto(){
                 System.out.println("El nombre del producto es "+alimento.nombre);
             }
+
         });
     }
 }
