@@ -10,6 +10,7 @@ public class Main {
         venta1.ingresarVenta(new IProductoRepositorio(){
             Alimento alimento= new Alimento();
 
+
             @Override
             public void ingresarProducto(){
                 Scanner sc = new Scanner(System.in);
